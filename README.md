@@ -12,8 +12,8 @@ So, for that I cleaned the dataset with python. I removed the duplicate rows and
 For data visualization, I used powerBI. I used 4 types of visualization for data analysis on this project, which are scatter plot, clustered bar chart, line chart, and decomposition tree.
 
 #Step-4
-With the data visualizations, I mainly wanted to answer 4 significant business questions, which are
-1. What is the single biggest driver of medical costs, and how should it impact
+With the data visualizations, I mainly wanted to answer 4 significant business questions, which are 
+1. What is the single biggest driver of medical costs, and how should it impact our premiums?
 2. What happens when high BMI compounds with other risk factors?
 3. Which region is bleeding the most money, and why?
 4. How does family size impact cost predictability?
